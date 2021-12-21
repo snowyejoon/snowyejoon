@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @snowyejoon
-- 👀 I’m interested in coding
+- 👋 Hi, I’m @new_coder(@snowyejoon)
+- 👀 I’m interested in codin.
 - 🌱 I’m currently learning coding.
 - 📫 How to reach me : (no...)
 <!---
